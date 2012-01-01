@@ -130,8 +130,8 @@
 	'view_location' => 'Zeige Orte',
 	'view_nearby_incident' => 'Zeige benachbarte Ereignisse',
 	'view_time' => 'Zeige Zeit',
-	'view_unverified' => 'Zeige ungeprüfte',
-	'view_verified' => 'Zeige geprüfte',
+	'view_unverified' => 'Zeige unbestätigte',
+	'view_verified' => 'Zeige bestätigte',
 	'view_videos' => 'Zeige Videos',
 	);
 ?>
