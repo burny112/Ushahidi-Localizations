@@ -15,7 +15,7 @@
 	'settings_api_max_requests_per_ip' => 'Maximale Anzahl an API Anfragen per IP-Adresse.',
 	'settings_cache_pages' => 'Erlaube oder verbiete das Zwischenspeichern der Seite. Dies verbessert die Geschwindigkeit beim Seitenaufbau.Wir empfehlen dies bei Seiten die häufig genutzt werden.** Denken Sie daran, dass Meldungen entsprechend Ihrer Einstellung hier im Frontend veröffentlicht werden.',
 	'settings_cache_pages_lifetime' => 'Setzen der Cache-Zeit.',
-	'settings_checkins' => 'Diese Einstellung erlaubt Checkins auf Ihrer Installation. Dies ist ein vereinfachter Report-Typ der nicht moderiert wird bevor er online geht und benötigt einen sicheren Weg. Wenn Sie dies ankreuzen, stellen SIe sicher das Ihre Zeitzone ist auf UTC eingestellt und das Ihr THEME das einloggen erlaubt. ',
+	'settings_checkins' => 'Diese Einstellung erlaubt Checkins auf Ihrer Installation. Dies ist ein vereinfachter Report-Typ der nicht moderiert wird bevor er online geht und benötigt einen sicheren Weg. Wenn Sie dies ankreuzen, stellen Sie sicher das Ihre Zeitzone auf UTC eingestellt ist und das Ihr THEME das einloggen erlaubt. ',
 	'settings_configure_map' => 'Setze die Karte um einen spezifischen Ort zu überwachen.',
 	'settings_default_category_colors' => 'Legen Sie eine Farbe fest für alle Kategorien auf der Seite.',
 	'settings_default_location' => 'Das ist das Land in dem die Seite veröffentlicht wird.',
@@ -36,11 +36,11 @@
 	'settings_server_type' => 'Dies ist notwendig um Mails vom Server zu empfangen.',
 	'settings_server_username' => 'Diese Emailadresse empfängt die Meldungen',
 	'settings_share_site_stats' => 'Dies ermöglicht den Zugriff auf die Statistik mit der API.',
-	'settings_site_copyright_statement' => 'Es ist immer geine gute Idee das Copyright zu sichern für siene Arbeit. Um auch die richtiges Rechte zu bestimmen besuchen Sie http://creativecommons.org/choose/.',
+	'settings_site_copyright_statement' => 'Es ist immer eine gute Idee das Copyright  für seine Arbeit zu sichern. Um auch die richtiges Rechte zu bestimmen besuchen Sie http://creativecommons.org/choose/.',
 	'settings_site_email' => 'Das ist die Mailadresse zum Empfang von Eingaben aus dem Kontaktformular.',
-	'settings_site_message' => 'Dies ist der Text der oberhalbt der Karte auf der Homepage erscheint. Dies ist hilfreich um wichtige Informationen an die Besucher der Seite weiterzugeben. Um die Box zu löschen, entfernen Sie infach den Text.',
+	'settings_site_message' => 'Dies ist der Text der oberhalb der Karte auf der Homepage erscheint. Dies ist hilfreich um wichtige Informationen an die Besucher der Seite weiterzugeben. Um die Box zu löschen, entfernen Sie einfach den Text.',
 	'settings_site_name' => 'Das ist der Seitenname der ganz oben auf der Seite erscheint.',
-	'settings_site_tagline' => 'Erläutere in wenigen Worten das Ziel der Seite.',
+	'settings_site_tagline' => 'Erläutern Sie in wenigen Worten das Ziel der Seite.',
 	'settings_twitter_configuration' => 'Bestimmen Sie den Twitter hashtag der benutzt werden soll für die Tweets.',
 	);
 ?>
